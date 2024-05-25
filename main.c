@@ -7,6 +7,12 @@
 #include "athlete_training.h"
 #include "file_io.h"
 
+#include "Amine.txt"
+#include "Dahmane.txt"
+#include "Hari.txt"
+#include "Hicham.txt"
+#include "Rayan.txt"
+
 int main() {
 // création des athlètes
     Athlete athletes[] = {
