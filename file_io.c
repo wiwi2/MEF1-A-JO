@@ -2,7 +2,7 @@
 #include <string.h>
 #include "file_io.h"
 
-void write_training_data(const char* filename, Training* trainings, int num_trainings) {// permet d'écrire les informations de chaque athlète dans un fichier créé à leur nom
+/*void write_training_data(const char* filename, Training* trainings, int num_trainings) {// permet d'écrire les informations de chaque athlète dans un fichier créé à leur nom
     FILE *file = fopen(filename, "w"); // ouverture du fichier pour écrire dans celui-ci
     if (file == NULL) {
         printf("Error while opening the file %s.\n", filename);
@@ -16,7 +16,7 @@ void write_training_data(const char* filename, Training* trainings, int num_trai
         else {fprintf(file, "%s ; %s ; %s\n", trainings[i].date, trainings[i].type, trainings[i].time);
     }}
     fclose(file);
-}
+}*/
 
 void get_trainings(const char *filename) {  // permet d'afficher l'historique des entraînements de l'athlète demandé
     FILE *file;
