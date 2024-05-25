@@ -6,5 +6,5 @@ Principalement, les actions sont : faire afficher l'historique d'un athlète, aj
 
 Concernant l'état du projet : celui-ci est fonctionnel et ne devrait en aucun cas crasher, peu importe l'entrée que fait l'utilisateur. Il est stable et se termine une fois que toutes les actions possibles ont été proposées à l'utilisateur. 
 
-voici le lien du rapport de projet : "inserer lien"
+Voici le lien du rapport de projet pour les détails de sa mise en place : "Rapport, MEF-1 Groupe A.pdf"
 
